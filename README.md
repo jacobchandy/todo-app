@@ -1,2 +1,2 @@
 # Todo App
-Todo app using Flutter
+Todo app using Flutter by Jacob
